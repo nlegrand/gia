@@ -1,6 +1,4 @@
-fn main (
-
-   	) {
-       println! (  "Hello, world!" );
-       lol
+fn main() {
+    println!("Hello, world!");
+    lol
 }
